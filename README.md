@@ -20,11 +20,13 @@ To install and run the project , following are the requirements:
 Prerequisites
 
 The requirements.txt file contains all the python libraries, and they can be installed using:
+
 pip install -r requirements.txt
 
 Instruction
 
 To run the application run the command
+
 python app.py
 
 Webpage
