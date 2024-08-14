@@ -6,20 +6,16 @@ About the Project
 
 Salient Features
 
- Real Time Security
- 
- It deals with non frontal face detection.
- 
- Identify unknown persons that are not registered and send notifications via emails with current date and time.
+   Real Time Security
+   It deals with non frontal face detection.
+   Identify unknown persons that are not registered and send notifications via emails with current date and time.
 
 Built With
   Tech Stack:
      
-Front-end : HTML5, CSS3,Javascript, Bootstrap
-     
-Back-end : Flask, Python
-     
-Face Recogntion library: Opencv, cv2, os, sys, face_recognition ,scikit-learn,smtp lib
+ Front-end : HTML5, CSS3,Javascript, Bootstrap
+ Back-end : Flask, Python
+ Face Recogntion library: Opencv, cv2, os, sys, face_recognition ,scikit-learn,smtp lib
 
 Getting Started
 
@@ -37,5 +33,7 @@ To run the application run the command
 
      python app.py
 
-Webpage
+Output
+
+![Output Screenshot](output_screenshot.png.png)
 
